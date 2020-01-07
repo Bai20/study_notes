@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1abda20-02e2-4884-b6b3-9764dd7e3f2f" name="Default Changelist" comment="markdown格式">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JupyterLab_files/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JupyterLab_files/main.f723825c0024a62d4234.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JupyterLab_files/vendors_main.9b0ef806ae46433ee034.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_notes_algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/机器学习综述_20200106.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/综述.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W4OwzLPGq96FqTeOkpDoKkBN2N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1abda20-02e2-4884-b6b3-9764dd7e3f2f" name="Default Changelist" comment="" />
+      <created>1578405643029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578405643029</updated>
+      <workItem from="1578405648886" duration="2493000" />
+    </task>
+    <task id="LOCAL-00001" summary="markdown格式">
+      <created>1578409787578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578409787578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="markdown格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="markdown格式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578409485915">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="178" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.815@0.23.1440.815" timestamp="1578409485915" />
+    <state x="382" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578405772371">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="382" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.810@0.23.1440.810" timestamp="1578405772371" />
+    <state x="288" y="43" key="CommitChangelistDialog2" timestamp="1578410283934">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="288" y="43" key="CommitChangelistDialog2/0.23.1440.815@0.23.1440.815" timestamp="1578410283934" />
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2" timestamp="1578409924455">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.815@0.23.1440.815" timestamp="1578409924455" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1578405671632">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.810@0.23.1440.810" timestamp="1578405671632" />
+  </component>
+</project>
