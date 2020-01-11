@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1abda20-02e2-4884-b6b3-9764dd7e3f2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JupyterLab_files/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JupyterLab_files/main.f723825c0024a62d4234.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JupyterLab_files/vendors_main.9b0ef806ae46433ee034.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +11,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578405643029</updated>
-      <workItem from="1578405648886" duration="2807000" />
+      <workItem from="1578405648886" duration="3042000" />
+      <workItem from="1578754721540" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="markdown格式">
       <created>1578409787578</created>
@@ -78,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578410517244</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="markdown格式">
+      <created>1578410888213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578410888213</updated>
+    </task>
+    <task id="LOCAL-00005" summary="markdown格式">
+      <created>1578410951475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578410951475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="markdown格式">
+      <created>1578410967749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578410967749</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,14 +129,15 @@
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="382" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.810@0.23.1440.810" timestamp="1578405772371" />
-    <state x="288" y="41" key="CommitChangelistDialog2" timestamp="1578410951264">
+    <state x="288" y="41" key="CommitChangelistDialog2" timestamp="1578410967513">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="288" y="41" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1578410951264" />
+    <state x="288" y="41" key="CommitChangelistDialog2/0.23.1440.813@0.23.1440.813" timestamp="1578410967513" />
     <state x="288" y="43" key="CommitChangelistDialog2/0.23.1440.815@0.23.1440.815" timestamp="1578410517085" />
-    <state x="314" y="187" key="Vcs.Push.Dialog.v2" timestamp="1578410522278">
-      <screen x="0" y="23" width="1440" height="815" />
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2" timestamp="1578410975842">
+      <screen x="0" y="23" width="1440" height="813" />
     </state>
+    <state x="314" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.813@0.23.1440.813" timestamp="1578410975842" />
     <state x="314" y="187" key="Vcs.Push.Dialog.v2/0.23.1440.815@0.23.1440.815" timestamp="1578410522278" />
     <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1578405671632">
       <screen x="0" y="23" width="1440" height="810" />
